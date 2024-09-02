@@ -21,5 +21,5 @@ read -p "Please Enter your Age:" Age
 echo $name
 echo $Age
 
-read -p "plese enter your school:" school
+read -p "Plese Enter your school:" school
 echo $school
