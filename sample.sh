@@ -6,7 +6,7 @@
 #
 #This script is Example pratice 
 #
-a=100
+a=1000
 b=50
 c=$((a+b))
 echo $c
