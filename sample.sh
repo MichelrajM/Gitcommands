@@ -23,3 +23,5 @@ echo $Age
 
 read -p "Plese Enter your school:" school
 echo $school
+
+#this for command //
